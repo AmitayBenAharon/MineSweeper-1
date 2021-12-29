@@ -1,1 +1,2 @@
-printf("hello Nigga");
+printfln("hello Nigga");
+printf("sup erel");
